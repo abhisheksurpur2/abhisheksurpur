@@ -23,3 +23,6 @@ if(digitalread(pirpin)==low)
   }
 }
 }
+while(1){
+ print("hi")
+}
